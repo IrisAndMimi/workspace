@@ -1,0 +1,10 @@
+package edu.fju.exam;
+
+public class Bubble {
+
+	public static void main(String[] args) {
+		int[] n = { 45, 81, 9, 72, 4, 6};
+		for()
+//		System.out.println(n[0]);
+	}
+}

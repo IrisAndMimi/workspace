@@ -13,9 +13,11 @@ public class Bubble {
 					n[j]=tmp;
 				}
 			}
+			for(int num:n){
+				System.out.println(num);
+	
+			}
 		}
-		for(int num:n){
-			System.out.println(num);
-		}
+//		System.out.println(n[0]);
 	}
 }
