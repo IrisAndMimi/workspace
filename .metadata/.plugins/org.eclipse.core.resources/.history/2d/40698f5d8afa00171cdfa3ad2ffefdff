@@ -1,0 +1,11 @@
+package edu.fju.exam;
+
+public class Employee {
+	int money;
+	String nam;
+	public void ptInfo(int money,String nam){
+		this.money = money;
+		this.nam = nam;
+		System.out.println(nam+\t+nam);
+	}
+}

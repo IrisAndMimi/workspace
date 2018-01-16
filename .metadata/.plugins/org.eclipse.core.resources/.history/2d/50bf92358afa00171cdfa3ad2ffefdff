@@ -1,0 +1,9 @@
+package edu.fju.exam;
+
+public class Employee {
+	int money;
+	String nam;
+	public void ptInfo(int money){
+		this.money = money;
+	}
+}
